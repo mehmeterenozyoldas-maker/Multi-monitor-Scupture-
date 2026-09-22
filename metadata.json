@@ -1,0 +1,6 @@
+{
+  "name": "Neural Singularity",
+  "description": "A multi-window generative art experiment. The visualization spans across multiple browser windows, creating a shared coordinate space where particles and geometry flow seamlessly across screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
